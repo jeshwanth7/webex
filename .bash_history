@@ -386,3 +386,57 @@ history
 full historu
 full history
 commit <shal>
+ls
+ls la
+ls -la
+cd 
+ls
+git diff
+git stash list
+git stash apply
+help stash
+info stash
+man stash
+git stash pop
+git branch
+git diff
+cd my_WIP
+git init
+git status
+git add rat
+git add readme
+git add cell
+git status
+git add readme
+git add fruits
+git status
+git add fruits
+git commit
+git status
+git log
+git add .
+ls
+git branch extra
+git checkout extra
+touch cherry
+git add .
+git commit -m "new updates"
+git checkout master
+git status
+git merge extra
+git commit -a -m "change"
+git checkout extra
+git commit -a -m "change1"
+git merge master
+git status
+git commit -a -m 'merge from master'
+git merge tool
+git mergetool
+touch gum
+git checkout master
+git status
+git stash 
+git status
+git stash apply
+git stash 
+git remote
