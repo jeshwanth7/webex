@@ -440,3 +440,170 @@ git status
 git stash apply
 git stash 
 git remote
+ls
+cd
+ls
+cat fruits
+git push fruits origin
+git push fruits origin master
+git push -u fruits origin master
+git push -u origin master
+git push -u origin master
+git config --global user.name "jeshwanth7"
+git config --global user.email "jeshwanth2king@gmail.com"
+git push fruits -u origin master
+git push -u origin master
+git add .
+git commit -m "add existing  file"
+git push origin apple
+git push origin newfeatures
+ls
+git push origin ball
+git push origin gittes7
+git add .
+git commit -m "add existing  file"
+git push origin book
+git push origin book
+ls
+cd 
+ls
+rm book
+rmdir book
+rmdir -r book
+man remove
+cd book
+ls
+cd
+if config --global user.name "jeshwanth7"
+git config --global user.name "jeshwanth7"
+git comfig --global user.email "jeswhanth2king@gmail.com"
+git config --global user.email "jeswhanth2king@gmail.com"
+git origin master
+git_DIR -book *.git* -ok rm RF 
+git DIR -book *.git* -ok rm RF 
+git dir -book *.git* -ok rm RF 
+book
+ls
+clear
+ls
+git status
+cd gittest7
+ls
+git status
+cd new features
+cd newfeatures
+git push origin master
+git clone https://github.com/jeshwanth7/water.git
+ls
+git pull orgin master
+ls
+clear
+git remote
+git remote -v
+git push  origin
+git push origin master
+git fetch origin master
+git fetch_master origin master
+git fetch master origin master
+clear
+git remote
+git remote -v
+git status
+git pull origin master
+git status
+git remote
+ls
+ls
+cd
+ls
+cd gittest7
+ls
+echo "# goat" >> README.md
+git cnfig --global user.name "jeshwanth7"
+git config --global user.name "jeshwanth7"
+git config --global user.email "jeshwanth2king@gmail.com"
+mkdir rain
+cd rain
+vi bag
+git add bag
+git commit -m 'the first commit'
+git push origin master
+git clone https://github.com/jeshwanth7/gittest7.git
+git commit
+git status
+ls
+git branch
+branch master
+git branch
+git branch
+git branch testbranch
+switch branch testbranh
+switch branch testbranch
+git status
+git add .
+ls
+git log
+git commit
+git push origin master
+git log
+clear
+git remote
+git remote -v
+ls
+vi raibow
+pwd
+git commit rainbow
+git commit 
+git add rainbow
+git commit
+git add -a rainbow
+git add  rainbow
+git add rainbow
+ls
+git add  raibow
+git commit
+git commit
+git push origin master
+rm raibow rainbow
+ls
+cd
+cd
+cd
+ls
+cd dell
+vi phone
+git add blood
+git add phone
+git commit -m "the first file "
+git push origin master
+ls
+cd
+ls
+cd dell
+vi tree
+gi add tree
+git add tree
+git commit -m "first commit "
+git push origin master
+git clone https://github.com/jeshwanth7/orange.git
+git commit
+git  log
+git push origin master
+ls
+cd orange
+vi laptop
+git add laptop
+git commit -m "adding laptop file to orange"
+git push origin master
+ls
+cat laptop
+vi laptop
+cat laptop
+git add laptop
+git commit -m "second update chages in laptop"
+git push origin master 
+git branch
+user add
+man df
+cron man
+cd
